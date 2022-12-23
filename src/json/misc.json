@@ -1,0 +1,15 @@
+[
+
+    {
+        "id": "2",
+        "name": "DRUPAL",
+        "cssAttribute": "meter-2",
+        "brandAttribute": "fa-brands fa-css3-alt"
+    },
+    {
+        "id": "3",
+        "name": "WORDPRESS",
+        "cssAttribute": "meter-3",
+        "brandAttribute": "fa-brands fa-vuejs"
+    }
+]

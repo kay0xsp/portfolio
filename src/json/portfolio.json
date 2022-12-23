@@ -1,0 +1,61 @@
+[
+    {
+        "id": 1,
+        "name": "Code angel",
+        "vignettePicture" : "./img/portfolio/codeangel.png",
+        "picturePath": "./img/portfolio/codeAngelScreen.jpg",
+        "description": "Code angel est un projet de jeux vidéo réalisé sous Unity C#, un projet personnel commercialisé sur la plateforme Steam, vous pouvez également consulter le site internet crée pour l'application. Réalisation de l'interface, la musique, le code pour les fonctionnalités de jeu en C#, l'optimisation des textures , les animations",
+        "link": "https://store.steampowered.com/agecheck/app/1662260/",
+        "linkName":"STEAM",
+        "cssAttribute" : "delay-1"
+    },
+    {
+        "id": 2,
+        "name": "Linered",
+        "vignettePicture" : "./img/portfolio/linered.png",
+        "picturePath": "./img/portfolio/lineredScreen.png",
+        "description": "Projet Full stack, site internet de ventes de biens pour particuliers: conception de la base de donnée en format UML ( table, champs, relations ), développement du back-end en laravel 9 API REST, front-end en vue.js, responsive design, gestion des produits par back office",
+        "link": "https://github.com/kay0xsp/linered",
+        "linkName":"lien du github",
+        "cssAttribute" : "delay-2"
+    },
+    {
+        "id": 3,
+        "name": "MyGis",
+        "vignettePicture" : "./img/portfolio/mygis.png",
+        "picturePath": "./img/portfolio/mygisscreen.png",
+        "link": "https://store.steampowered.com/agecheck/app/1662260/",
+        "linkName":"lien du jeu",
+        "cssAttribute" : "delay-3"
+    },
+    {
+        "id": 4,
+        "name": "OINARI",
+        "vignettePicture" : "./img/portfolio/oinari.png",
+        "picturePath": "./img/portfolio/oinarisanscreen.png",
+        "description": "Réalisation du logo et de graphismes diverses pour une association d'accompagnement de voyage au Japon",
+        "link": "https://www.facebook.com/OinariSanVoyage",
+        "linkName":"lien du facebook",
+        "cssAttribute" : "delay-4"
+    },
+    {
+        "id": 5,
+        "name": "projet 3",
+        "vignettePicture" : "./img/portfolio/project.png",
+        "picturePath": "",
+        "description": "",
+        "link": "https://store.steampowered.com/agecheck/app/1662260/",
+        "linkName":"lien du jeu",
+        "cssAttribute" : "delay-5"
+    },
+    {
+        "id": 6,
+        "name": "projet zero",
+        "vignettePicture" : "./img/portfolio/projectzero.png",
+        "picturePath": "",
+        "description": "",
+        "link": "https://store.steampowered.com/agecheck/app/1662260/",
+        "linkName":"lien du jeu",
+        "cssAttribute" : "delay-6"
+    }
+]

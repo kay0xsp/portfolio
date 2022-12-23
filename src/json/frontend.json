@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "name": "HTML",
+        "cssAttribute": "meter-1",
+        "brandAttribute": "fa-brands fa-html5"
+    },
+    {
+        "id": "2",
+        "name": "CSS",
+        "cssAttribute": "meter-2",
+        "brandAttribute": "fa-brands fa-css3-alt"
+    },
+    {
+        "id": "3",
+        "name": "VUE.JS",
+        "cssAttribute": "meter-3",
+        "brandAttribute": "fa-brands fa-vuejs"
+    },
+    {
+        "id": "4",
+        "name": "KIBANA",
+        "cssAttribute": "meter-4",
+        "brandAttribute": ""
+    },
+    {
+        "id": "5",
+        "name": "JS",
+        "cssAttribute": "meter-5",
+        "brandAttribute": "fa-brands fa-js"
+    }
+]

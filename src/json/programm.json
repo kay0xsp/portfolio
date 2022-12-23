@@ -1,0 +1,32 @@
+[
+    {
+        "id": "0",
+        "name": "GIT",
+        "cssAttribute": "meter-1",
+        "brandAttribute": "fa-brands fa-html5"
+    },
+    {
+        "id": "1",
+        "name": "UNITY",
+        "cssAttribute": "meter-1",
+        "brandAttribute": "fa-brands fa-html5"
+    },
+    {
+        "id": "2",
+        "name": "PHOTOSHOP",
+        "cssAttribute": "meter-2",
+        "brandAttribute": "fa-brands fa-css3-alt"
+    },
+    {
+        "id": "3",
+        "name": "ILLUSTRATOR",
+        "cssAttribute": "meter-3",
+        "brandAttribute": "fa-brands fa-vuejs"
+    },
+    {
+        "id": "4",
+        "name": "FL STUDIO",
+        "cssAttribute": "meter-4",
+        "brandAttribute": ""
+    }
+]

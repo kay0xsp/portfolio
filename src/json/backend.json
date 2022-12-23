@@ -1,0 +1,39 @@
+[
+    {
+        "id": "1",
+        "name": "PHP",
+        "cssAttribute": "meter-1",
+        "brandAttribute": "fa-brands fa-php"
+    },
+    {
+        "id": "2",
+        "name": "JAVA JEE",
+        "cssAttribute": "meter-2",
+        "brandAttribute": "fa-brands fa-java"
+    },
+    {
+        "id": "3",
+        "name": "LARAVEL",
+        "cssAttribute": "meter-3",
+        "brandAttribute": "fa-brands fa-laravel"
+    },
+    {
+        "id": "4",
+        "name": "HIBERNATE / SPRING",
+        "cssAttribute": "meter-4",
+        "brandAttribute": ""
+    },
+    {
+        "id": "5",
+        "name": "JUNIT",
+        "cssAttribute": "meter-5",
+        "brandAttribute": ""
+    }
+    ,
+    {
+        "id": "6",
+        "name": "C#",
+        "cssAttribute": "meter-5",
+        "brandAttribute": ""
+    }
+]
