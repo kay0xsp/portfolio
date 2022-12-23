@@ -57,4 +57,8 @@ src: url('./assets/fonts/Arimo-Regular.ttf');
 font-weight: normal;
 font-style: normal;
 }
+
+@media only screen and (max-width: 414px) {
+  .v-breadcrumbs{margin-left:0.5em !important}
+}
 </style>

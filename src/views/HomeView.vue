@@ -91,4 +91,38 @@ aside{
   border-radius:16em;
 }
 
+@media only screen and (max-width: 1024px) {
+
+  .home{flex-direction: column-reverse; text-align: center;}
+
+  .home aside{margin:0 auto;}
+
+  .home article p{
+    margin:1em 0;
+    max-width: 100% !important;
+  }
+
+  .home article{margin:0}
+}
+
+@media only screen and (max-width: 414px) {
+  .home{padding:0}
+  .home aside, .home figcaption, .home img{
+    width:320px;
+    height:320px;
+  }
+  
+  h2{
+    font-size:4em;
+  }
+  .animatedDescription{
+    padding-top:2em;
+  }
+
+  .home article p{
+    margin:2em;
+    text-align: justify;
+    font-size:1em
+  }
+}
 </style>

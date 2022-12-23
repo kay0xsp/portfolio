@@ -231,6 +231,23 @@ svg {
   }
 }
 
+@media only screen and (max-width: 1024px) {
+  #skills {
+    padding:1em;
+  }
+
+  #skills article, .dashboard-front{
+    max-width:450px;
+  }
+
+}
+
+@media only screen and (max-width: 414px) {
+  #skills article, .dashboard-front{
+    max-width: 350px;
+  }
+}
+
 </style>
 
 

@@ -65,4 +65,9 @@
         margin:0;
     }
 
+    @media only screen and (max-width: 414px) {
+        nav{padding:0; font-size:0.8em;}
+        
+    }
+
 </style>

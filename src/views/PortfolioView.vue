@@ -252,4 +252,21 @@
   box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
 }
 
+@media only screen and (max-width: 1024px) {
+
+  #portfolio li{
+    min-width: 450px !important;
+    max-width:450px !important;
+    height:240px;
+  }
+}
+
+@media only screen and (max-width: 414px) {
+  #portfolio li{
+    min-width: 350px !important;
+    max-width:250px !important;
+    height:180px;
+  }
+}
+
 </style>
